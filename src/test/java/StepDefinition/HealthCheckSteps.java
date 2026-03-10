@@ -13,7 +13,7 @@ public class HealthCheckSteps {
     @Given("the API endpoint is available")
     public void setBaseUri() {
 
-        baseURI = "https://www.google.com";
+        baseURI = "https://restful-booker.herokuapp.com";
 
     }
 
